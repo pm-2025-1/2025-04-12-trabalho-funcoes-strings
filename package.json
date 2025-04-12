@@ -1,0 +1,21 @@
+{
+  "name": "2025-04-12-trabalho-funcoes-strings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pm-2025-1/2025-04-12-trabalho-funcoes-strings.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pm-2025-1/2025-04-12-trabalho-funcoes-strings/issues"
+  },
+  "homepage": "https://github.com/pm-2025-1/2025-04-12-trabalho-funcoes-strings#readme"
+}
