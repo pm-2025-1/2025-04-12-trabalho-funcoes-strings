@@ -8,8 +8,8 @@ console.log(r1 == 'logia') // true
 
 var p2 = '   ta ds  '
 var r2 = leftTrim(p2) // deve remover os espaços à esquerda
-console.log(r2) // 'ta ds   '
-console.log(r2 == 'ta ds   ') // true
+console.log(r2) // 'ta ds  '
+console.log(r2 == 'ta ds  ') // true
 var r3 = rightTrim(p2) // deve remover os espaços à direita
 console.log(r3) // '   ta ds'
 console.log(r3 == '   ta ds') // true
