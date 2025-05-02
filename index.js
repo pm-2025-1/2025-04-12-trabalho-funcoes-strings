@@ -58,8 +58,8 @@ console.log(half(25.5, 2)) // 13.5
 console.log(half(25.9, 2)) // 13.9
 
 // group é semelhante a half
-console.log(group('tecnologia', 3, 1)) // dividir em três partes e retornar a primeira
-// tec nol ogia
+console.log(group('tecnologia', 3, 1)) // tec
+// dividir em três partes (tec nol ogia) e retornar apenas a primeira "tec"
 console.log(group('tecnologia', 3, 1) == 'tec')
 console.log(group('tecnologia', 3, 2) == 'nol')
 console.log(group('tecnologia', 3, 3) == 'ogia')
